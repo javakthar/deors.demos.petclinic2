@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <name>petclinic2013</name>
+    <name>petclinic2</name>
 
     <groupId>deors.demos</groupId>
     <artifactId>deors.demos.petclinic2</artifactId>
